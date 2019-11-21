@@ -8,12 +8,12 @@ site:
 theme:
   social:
     facebook: 'facebookUsername'
-    twitter: 'twitterHandle'
+    twitter: 'jm_fayard'
     instagram: 'instagramHandle'
-    github: 'githubUsername'
+    github: 'jmfayard'
     other:
       - label: 'linkedin'
-        link: 'https://www.example.com'
+        link: 'https://www.linkedin.com/in/jmfayard/'
         icon: 'fa-tag'
   menu:
     - type: 'page'

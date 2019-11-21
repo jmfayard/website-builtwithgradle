@@ -1,21 +1,10 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13b173bf-bcce-4090-a56c-a65cd799272c/deploy-status)](https://app.netlify.com/sites/builtwithgradle/deploys)
 
-This is a quickstart repo for Orchid to get you up and running as soon as possible. The only system dependency 
-necessary to run Orchid is a valid Java 8 JDK and git. 
+Source for the website https://builtwithgradle.netlify.com/
 
-```bash
-git clone https://github.com/JavaEden/OrchidStarter.git
-cd OrchidStarter
-./gradlew orchidServe
+Contributions welcome!
 
-# View your generated site at http://localhost:8080/
-```
 
-Alternatively, you can click the button below to automatically clone this repo and deploy it to Netlify. This starter 
-repo includes the [Netlify CMS](https://www.netlifycms.org/), so you will be up and publishing content as soon as 
-possible. You will need to set the Github user/repo in `src/orchid/resources/config/netlifyCms.yml`, but the rest of the 
-CMS config is automatically generated based on your current Orchid plugins and configurations.  
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JavaEden/OrchidStarter)
 
 ### Example Orchid Sites
 
