@@ -2,8 +2,9 @@
 
 Source for the website https://builtwithgradle.netlify.com/
 
-Contributions welcome!
+## Running locally
 
+`$ ./gradlew orchidServe`
 
 
 ### Example Orchid Sites
