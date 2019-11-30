@@ -22,7 +22,9 @@ theme:
         link: 'https://app.slack.com/client/T09229ZC6/CP5659EL9'
         icon: 'fa fa-slack-hash'
   menu:
-    - type: "wikiSections"
+    - type: "pages"
+      atRoot: true
+    #- type: "wikiSections"
     - type: 'taxonomy'
       taxonomyType: 'categories'
       includeTerms: true
@@ -30,8 +32,6 @@ theme:
     - type: 'page'
       title: 'Contact'
       itemId: 'jmfayard'
-    - type: "pages"
-      atRoot: true
   sidebar:
     - type: recentPosts
       limit: 3
