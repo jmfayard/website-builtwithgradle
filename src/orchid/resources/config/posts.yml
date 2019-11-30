@@ -1,15 +1,13 @@
-permalink: ':category/:year/:monthName/:slug'
+permalink: ':category/:slug'
 categories:
-  - key: 'category1'
-    title: 'Category 1'
-  - key: 'category2'
-    title: 'Category 2'
+  - key: 'articles'
+    title: 'Articles'
 authors:
   - name: 'Author Two'
     avatar: 'assets/images/avatar.jpg'
     email: 'email@domain.tld'
 postPages:
-  author: 'Author One'
+  author: 'jmfayard'
   layout: single
   components:
     - type: pageContent
